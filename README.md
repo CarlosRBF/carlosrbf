@@ -7,10 +7,6 @@ Eu sou Carlos Blanco, desenvolvedor Full Stack 👨‍💻 apaixonado por tecnol
 
 Recentemente fiz uma transição de carreira, migrei de laminação de aço para programação, cuja área me fascina desde criança. Sempre tive interesse em entender como as coisas funcionavam, os sistemas de computadores, videogames e celulares. Sem nenhum conhecimento prévio fui em busca de aprendizado por conta própria e procurei entender como eram criados sites e plataformas. 
 
-Hoje eu estou fazendo o curso de desenvolvedor full stack na Kenzie Academy Brasil e isso me rendeu o domínio sobre algumas tecnologias, entre elas: HTML5, CSS3, Javascript, GIT, GitHub e React.JS. Conclui a parte de Front End e sigo estudando Back End.
-
-Estou estudando agora Python, Django, MongoDB, AWS
-
 Sei que esse é só o começo então tudo o que busco é uma empresa onde eu possa trabalhar não só desenvolvendo a minha carreira mas também continuar estudando e aprimorando cada vez mais.
 </br>
 </br>
