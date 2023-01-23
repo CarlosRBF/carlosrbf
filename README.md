@@ -41,6 +41,4 @@ Sei que esse é só o começo então tudo o que busco é uma empresa onde eu pos
     <img align="center" alt="postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="redux" src="https://img.shields.io/badge/Django-154915?style=for-the-badge&logo=django&logoColor=white"/>
-    <img align="center" alt="redux" src="https://img.shields.io/badge/MongoDB-f4f3f6?style=for-the-badge&logo=mongodb&logoColor=green"/>
-    <img align="center" alt="redux" src="https://img.shields.io/badge/AWS-eca334?style=for-the-badge&logo=aws&logoColor=black"/>
 </div>
