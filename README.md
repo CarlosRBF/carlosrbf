@@ -3,7 +3,7 @@
 
 
 ### <i> Olá 👋</i>
-Eu sou Carlos Blanco, estudante de desenvolvimento Full Stack 👨‍💻 apaixonado por tecnologia e aprendendo sobre o mundo da programação. 
+Eu sou Carlos Blanco, desenvolvedor Full Stack 👨‍💻 apaixonado por tecnologia e aprendendo sobre o mundo da programação. 
 
 Recentemente fiz uma transição de carreira, migrei de laminação de aço para programação, cuja área me fascina desde criança. Sempre tive interesse em entender como as coisas funcionavam, os sistemas de computadores, videogames e celulares. Sem nenhum conhecimento prévio fui em busca de aprendizado por conta própria e procurei entender como eram criados sites e plataformas. 
 
